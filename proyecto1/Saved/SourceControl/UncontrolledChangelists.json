@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"T:/Proyectos U5/Unreal-5/proyecto1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/HO/QZ38M15KFCRLV71YK67IAZ.uasset"
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/HO/QZ38M15KFCRLV71YK67IAZ.uasset",
+				"T:/unreal5.3.2/UE_5.6/Engine/Content/MapTemplates/Materials/BasicAsset01.uasset",
+				"T:/unreal5.3.2/UE_5.6/Engine/Content/MapTemplates/Materials/Material_prueva.uasset",
+				"T:/unreal5.3.2/UE_5.6/Engine/Content/MapTemplates/Materials/M_luna.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Textures/NM_Luna.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Textures/M_LunaMaterial.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Textures/MI_Luna.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Fab/Moon/moon/Materials/Planet.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/97/0NUMX2G0CD2WFPGT10K5PO.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Fab/Moon/moon/StaticMeshes/moon.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Fab/Moon/moon/Textures/moon_texture_0.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Fab/Moon/moon/Textures/moon_texture_1.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Fab/Moon/moon/Textures/moon_texture_2.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Fab/Moon/moon/Textures/moon_texture_3.uasset",
+				"T:/Proyectos U5/Unreal-5/proyecto1/Content/Textures/premium_photo-1717620946383-b2ced8822ea9.uasset"
 			]
 		}
 	]
