@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"T:/Proyectos U5/Unreal-5/personajes/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/Characters/Mannequins/Materials/Manny/MI_Manny_01_New.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/BP_player.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/GM_test.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/Input/Actions/IA_CustomMuve.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/Input/IMC_Prueba.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/Input/IMC_Default.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/NewMap.umap",
+				"T:/Proyectos U5/Unreal-5/personajes/Content/LevelPrototyping/Meshes/SM_SM_ChamferCube.uasset"
+			]
+		}
+	]
+}
